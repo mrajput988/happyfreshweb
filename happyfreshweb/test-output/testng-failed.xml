@@ -5,9 +5,6 @@
     <classes>
       <class name="happyfreshweb.happyfreshwebclient">
         <methods>
-          <include name="select"/>
-          <include name="categories"/>
-          <include name="bestdeals"/>
           <include name="launchbrowser"/>
           <include name="signup"/>
         </methods>
